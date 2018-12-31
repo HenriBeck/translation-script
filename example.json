@@ -1,0 +1,9 @@
+{
+  "test":"Wie geht es dir?",
+  "nested":{
+    "test2":"Mir geht es super",
+    "deep-nested": {
+      "test3":"Wir schenken dir 50"
+    }
+  }
+}
